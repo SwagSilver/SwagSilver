@@ -23,7 +23,7 @@ Spanish 🇪🇸|Partially proficient
 Language|Since|Libraries
 :------:|:---:|:-------:
 <img src="assets/py.svg" width="50" height="50"> Python|December 2022|discord.py
- ||flask
+|||flask
 ![PHP](assets/php.svg)|August? 2023|PHPUnit
 
 ## Links

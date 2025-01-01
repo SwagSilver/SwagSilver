@@ -4,7 +4,7 @@ I am known online as SwagSilver. I am a self-taught hobby programmer based in Br
 
 My journey's humble beginnings were in 2022, when I was hacking together simple Python scripts, ranging from calculators to mock banking systems.
 
-## Currently developing
+## Currently building
 
 [SwagUnit](https://github.com/SwagSilver/swagunit)
 

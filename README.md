@@ -1,14 +1,12 @@
 # What's up?
 
-I am known online as SwagSilver. I am a hobby programmer based in Brazil 🇧🇷
+I am known online as SwagSilver. I am a self-taught hobby programmer based in Brazil 🇧🇷
+
+My journey's humble beginnings were in 2022, when I was hacking together simple Python scripts, ranging from calculators to mock banking systems.
 
 ## Currently developing
 
-<img src="assets/pyrix.jpg" width="100" height="100">
-
-### PyRix
-
-A fun little racing bot for Discord.
+[SwagUnit](https://github.com/SwagSilver/swagunit)
 
 ## Skillset
 
@@ -20,11 +18,16 @@ English 🇬🇧|Fully proficient
 Spanish 🇪🇸|Partially proficient
 
 ### Programming languages
-Language|Since|Libraries
-:------:|:---:|:-------:
-<img src="assets/py.svg" width="50" height="50"> Python|December 2022|discord.py
-|||flask
-![PHP](assets/php.svg)|August? 2023|PHPUnit
+
+Language|Proficiency
+:------:|:---------:
+C|Largely proficient
+C++|Partially proficient
+Go|Largely proficient
+Haskell|Partially proficient
+JavaScript|Fully proficient
+PHP|Largely proficient
+Python|First language
 
 ## Links
 

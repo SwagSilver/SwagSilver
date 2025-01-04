@@ -32,4 +32,4 @@ Python|First language
 ## Links
 
 swagzo on Discord<br>
-[@SwagSilver](https://twitter.com/SwagSilverr_?t=CkK_pOSpYhYDMduHYmAU-g&s=09) on Twitter
+[@SwagSilver](https://twitter.com/swag_kino) on Twitter

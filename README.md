@@ -32,4 +32,5 @@ Python|First language
 ## Links
 
 swagzo on Discord<br>
-[@swag_kino](https://twitter.com/swag_kino) on Twitter
+[@swag_kino](https://twitter.com/swag_kino) on Twitter<br>
+[@s8r](https://monkeytype.com/profile/s8r) on MonkeyType

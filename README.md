@@ -1,33 +1,9 @@
-# What's up?
+# hi HAHA 📍
 
-I am known online as SwagSilver. I am a self-taught hobby programmer based in Brazil 🇧🇷
+deep in the side project trenches (take a wild guess on how many of them ive came partically close to releasing)
 
-My journey's humble beginnings were in 2022, when I was hacking together simple Python scripts, ranging from calculators to mock banking systems.
+started off in 2023 wanting to do backend but now i just do whatever i feel like doing :p
 
-## Skillset
-
-### Human languages
-Language|Proficiency
-:------:|:---------:
-Brazillian Portuguese 🇧🇷|Native language
-English 🇬🇧|Fully proficient
-Spanish 🇪🇸|Partially proficient
-
-### Programming languages
-
-Language|Proficiency
-:------:|:---------:
-C|Largely proficient
-C++|Partially proficient
-Go|Largely proficient
-Haskell|Partially proficient
-JavaScript|Fully proficient
-PHP|Largely proficient
-Python|First language
-Rust|Kinda proficient
-
-## Links
-
-swagzo on Discord<br>
-[@suagsi](https://twitter.com/suagsi) on Twitter<br>
-[@s8r](https://monkeytype.com/profile/s8r) on MonkeyType
+discord: swagzo<br>
+[twitter](https://twitter.com/suagsi)<br>
+[monkeytype](https://monkeytype.com/profile/s8rmobile)
